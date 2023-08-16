@@ -4,6 +4,10 @@
 
 Hello everyone! 👋 I'm excited to share my exploration of the new architecture in React-Native and the creation of a basic Bluetooth Classic Module for Android. This module enhances your React-Native app by providing seamless integration with Bluetooth Classic devices.
 
+## Demo
+
+![demo-video](BluetoothDemo.gif)
+
 ## Module Functionalities
 
 The Bluetooth Classic Module offers the following functionalities:
@@ -37,7 +41,6 @@ To integrate the Bluetooth Classic Module into your React-Native app, follow the
 2. Navigate to the module's directory and install dependencies.
 3. Link the module to your React-Native project.
 4. Use the module's functionalities in your app by following the provided documentation and examples.
-
 
 ## Contributions
 
